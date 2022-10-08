@@ -28,9 +28,11 @@ Create an API endpoint that returns the number, a status code of 1 and a message
 - Password: admin
 
 ## Dashboard
-![Screenshot 2022-10-07 at 7 26 38 PM](https://user-images.githubusercontent.com/20325487/194639010-cf7a8601-ca62-480b-898a-6595f2757c9c.png)
-![Screenshot 2022-10-07 at 7 27 14 PM](https://user-images.githubusercontent.com/20325487/194639165-16bfc469-201f-4826-bcce-438f471f2dcb.png)
-![Screenshot 2022-10-07 at 7 27 30 PM](https://user-images.githubusercontent.com/20325487/194639176-1141d7fd-ba8a-4abc-ba5b-41f23a2d1fab.png)
+<img width="1438" alt="Screen Shot 2022-10-08 at 6 44 18 PM" src="https://user-images.githubusercontent.com/13081314/194722907-5fdcdfb0-c7fb-44e9-b1ef-9ec9642c4968.png">
+<img width="1438" alt="Screen Shot 2022-10-08 at 6 44 32 PM" src="https://user-images.githubusercontent.com/13081314/194722913-472f811a-b998-4e6e-b639-a645faee62fd.png">
+<img width="1438" alt="Screen Shot 2022-10-08 at 6 44 56 PM" src="https://user-images.githubusercontent.com/13081314/194722921-df47baca-c517-490e-b348-97db7bd8261d.png">
+<img width="1436" alt="Screen Shot 2022-10-08 at 6 45 22 PM" src="https://user-images.githubusercontent.com/13081314/194722929-a9bc658b-a7ad-41c8-b548-2c52918c750b.png">
+
 
 
 ## API Endpoints

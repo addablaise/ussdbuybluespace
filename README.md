@@ -43,32 +43,27 @@ URL: **GET /api/phone/**
 
 **Successful Response** 
 
-    {
-        "status_code": 1,
-        "message": "Phone Numbers loaded successfully!",
-        "phones": [
-            {
-                "telco": "mtn",
-                "phone": "0546034490",
-                "status": "blocked"
-            },
-            {
-                "telco": "vodafone",
-                "phone": "0206119718",
-                "status": "active"
-            },
-            {
-                "telco": "mtn",
-                "phone": "0546034493",
-                "status": "blocked"
-            },
-            {
-                "telco": "vodafone",
-                "phone": "0204229999",
-                "status": "active"
-            }
-        ]
-    }
+{
+    "status_code": 1,
+    "message": "Phone Numbers loaded successfully!",
+    "phones": [
+        {
+            "telco": "airteltigo",
+            "phone": "0267750872",
+            "status": "active"
+        },
+        {
+            "telco": "mtn",
+            "phone": "0246666677",
+            "status": "blocked"
+        },
+        {
+            "telco": "mtn",
+            "phone": "0247952852",
+            "status": "active"
+        }
+    ]
+}
 
 
 ### Get Phone
@@ -78,7 +73,7 @@ URL: **GET /api/phone/**
 **Expected Body** 
     
     {
-        phone: 0206119718
+        phone: 0247952852
     }
 
 **Successful Response** 
@@ -92,5 +87,5 @@ URL: **GET /api/phone/**
 
     {
         "status_code": 0,
-        "message": "No results found: 020611971"
+        "message": "No results found: 0261111112"
     }
